@@ -19,9 +19,9 @@
 
 ---
 
-## 🚀 My 200-Day AWS DevOps Learning Journey  
+## 🚀 My  AWS DevOps Learning Journey  
 
-I’ve started a **200-day challenge** to learn and master **AWS & DevOps** from scratch.  
+I’ve started a  challenge to learn and master **AWS & DevOps** from scratch.  
 📌 **I will be updating my progress, notes, and projects daily on GitHub.**  
 
 ---
