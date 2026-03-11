@@ -1,42 +1,102 @@
 
 
-# 👋 Hi, I’m **Naveen Mamidi** (@NaveenMamidiAWSDevOps)  
+# 👋 Hi, I'm **Naveen Mamidi**
 
-🚀 **Aspiring AWS DevOps Engineer | Beginner & Lifelong Learner**  
+**AWS DevOps Engineer | Cloud Infrastructure Automation | CI/CD Systems**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/naveen-mamidi-083414342)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:naveenmamidi1147@gmail.com)  
+![Profile Views](https://komarev.com/ghpvc/?username=NaveenMamidiAWSDevOps\&color=blue)
 
----
-
-## 🌱 About Me  
-
-- 🎯 Currently learning **AWS, DevOps, and Cloud Technologies**.  
-- 📚 Preparing for **AWS & DevOps certifications** to build a strong foundation.  
-- 💻 Exploring **Terraform, Docker, Kubernetes, and CI/CD pipelines**.  
-- 🔍 Looking for **internship opportunities in Cloud & DevOps**.  
-- 📫 Reach me at **[naveenmamidi1147@gmail.com](mailto:naveenmamidi1147@gmail.com)**.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&style=flat)](https://www.linkedin.com/in/naveen-mamidi-083414342)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail\&style=flat)](mailto:naveenmamidi1147@gmail.com)
 
 ---
 
-## 🚀 My  AWS DevOps Learning Journey  
+# Cloud & DevOps Engineering
 
-I’ve started a  challenge to learn and master **AWS & DevOps** from scratch.  
-📌 **I will be updating my progress, notes, and projects daily on GitHub.**  
-
----
-
-## 🔧 My Learning Stack  
-
-- ☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes  
-- 🔄 **CI/CD & Automation:** GitHub Actions, Jenkins  
-- 🏗️ **Infrastructure as Code:** Terraform, CloudFormation  
+* 🚀 Building **automated cloud environments on AWS**
+* ⚙️ Engineering **CI/CD pipelines enabling reliable deployments**
+* ☁️ Designing **scalable infrastructure using Infrastructure as Code**
+* 🔄 Automating **deployment, monitoring, and operational workflows**
+* 📊 Implementing **cloud observability and performance monitoring**
 
 ---
 
-## 📌 My Progress & Projects  
+# DevOps Technology Stack
 
-🔹 **Daily updates & projects will be documented in my repositories.**  
-📌 **Check out my pinned repositories to track my journey!**  
+### Cloud Platforms
 
-💬 **Let’s connect and grow together in the DevOps world! 🚀**  
+* AWS EC2
+* AWS S3
+* AWS IAM
+* AWS VPC
+* AWS CloudWatch
+* AWS Lambda
+
+### Containers & Orchestration
+
+* Docker
+* Kubernetes
+
+### CI/CD & Automation
+
+* GitHub Actions
+* Jenkins
+
+### Infrastructure as Code
+
+* Terraform
+* AWS CloudFormation
+
+### Version Control
+
+* Git
+* GitHub
+
+---
+
+# Featured DevOps Projects
+
+### AWS Infrastructure Automation
+
+* Terraform-based **multi-service AWS infrastructure deployment**
+* Automated **VPC networking, IAM roles, and compute provisioning**
+
+### CI/CD Deployment Pipeline
+
+* GitHub Actions pipeline supporting **build, test, and deployment automation**
+* Containerized workflow integrated with **Docker environments**
+
+### Containerized Application Deployment
+
+* Dockerized application stack
+* Kubernetes-ready deployment configuration
+
+---
+
+# GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaveenMamidiAWSDevOps\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenMamidiAWSDevOps\&layout=compact)
+
+---
+
+# Engineering Focus
+
+* ⚡ Cloud infrastructure automation
+* ⚡ DevOps pipeline engineering
+* ⚡ Infrastructure as Code deployments
+* ⚡ Cloud-native architecture design
+
+---
+
+# Connect
+
+* LinkedIn
+  [https://www.linkedin.com/in/naveen-mamidi-083414342](https://www.linkedin.com/in/naveen-mamidi-083414342)
+
+  Email
+  [naveenmamidi1147@gmail.com](mailto:naveenmamidi1147@gmail.com)
+
+---
+
