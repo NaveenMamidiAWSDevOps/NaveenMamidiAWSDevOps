@@ -4,7 +4,7 @@
 
 **AWS DevOps Engineer | Cloud Infrastructure Automation | CI/CD Systems**
 
-![Profile Views](https://komarev.com/ghpvc/?username=NaveenMamidiAWSDevOps\&color=blue)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&style=flat)](https://www.linkedin.com/in/naveen-mamidi-083414342)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail\&style=flat)](mailto:naveenmamidi1147@gmail.com)
