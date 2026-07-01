@@ -9,7 +9,7 @@
 
 ## About Me
 
-AWS DevOps Engineer with nearly 4 years of hands-on experience in cloud infrastructure automation, CI/CD pipeline development, containerized deployments, Kubernetes application management, and AWS migration projects.
+AWS DevOps Engineer with  4 years of hands-on experience in cloud infrastructure automation, CI/CD pipeline development, containerized deployments, Kubernetes application management, and AWS migration projects.
 
 I work with AWS, Terraform, Jenkins, Docker, Kubernetes, Helm, Ansible, Git, Maven, Linux, CloudWatch, Splunk, Nagios, and SonarQube to build reliable, scalable, and automated DevOps solutions.
 
